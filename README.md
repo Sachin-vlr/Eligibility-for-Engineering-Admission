@@ -68,7 +68,7 @@ namespace EngineeringAdmission
 
 ## Output:
 
-![Screenshot 2024-02-16 205458](https://github.com/chandrumathiyazhagan/Eligibility-for-Engineering-Admission/assets/119393023/d231d458-5dac-499a-8ef1-d6316e1cef98)
+![image](https://github.com/Sachin-vlr/Eligibility-for-Engineering-Admission/assets/113497666/12346326-ab19-4418-8c60-2e82cb2c4e5a)
 
 ## Result:
 Thus the above C# program to check the eligibility of engineering admission is successfully executed.
